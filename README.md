@@ -6,8 +6,7 @@
 `在spring中，Aspect(切面)由poincut(切入点)和advice(通知方式)共同组成`
 <img src="https://img2020.cnblogs.com/blog/1814997/202007/1814997-20200712231218497-949005518.png" alt="image-20200712185603345" style="zoom:70%;" />
 
-
-==奉上代码== https://github.com/Sevenwsq/springboot-aop-demo.git
+**如果有用，点个Star** 😊
 
 ### 1.创建springboot项目，引入依赖
 
